@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/dotninth/dotninth/master/assets/sakura.png" width="25%" align="right" alt="Pixel Art sakura" />
 
-### Hi there!
+### 👋🏻 Hi there!
 My name is **Dominik**. I'm a *software engineer* by day ☼ and a *pixel artist* by night ☾
 
 Currently working <a href="https://puneuma.com">@Puneuma</a> on a cool task management app for ADHD folks *(and myself)*.
