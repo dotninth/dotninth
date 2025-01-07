@@ -9,7 +9,7 @@ Currently working @ <a href="https://puneuma.com">Puneuma</a> on a cool task man
 
 <pre>
     ⇢ Ruby • PHP • JavaScript • Janet • Lua • Odin
-    ⇢ Laravel • HTMX • Tailwind CSS • AlpineJS • VueJS
+    ⇢ Laravel • HTMX • Livewire • Tailwind CSS • AlpineJS • VueJS • Statamic
     ⇢ Linux • not-arch-btw • helix • zsh • Ghostty • Thinkpads
     ⇢ Indie Game Dev • Pixel Art 
     ⇢ Books • Music • Manga & Comics • Games • Sometimes Anime 
