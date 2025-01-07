@@ -16,7 +16,7 @@ Currently working @ <a href="https://puneuma.com">Puneuma</a> on a cool task man
     ⇢ Books • Music • Manga & Comics • Games • Sometimes Anime 
     ⇢ Amazarashi • Linking Park
     ⇢ Xenoblade Chronicles • Zelda • To The Moon • Guild Wars (1/2)
-    ⇢ Eureka 7 • Full-Metal Alchemist • Grand Blue (about ~~definetely-not-drinking~~)
+    ⇢ Eureka 7 • Full-Metal Alchemist • Grand Blue
     ⇢ Scott Pilgrim • Seconds
 </pre>
 
