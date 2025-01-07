@@ -10,7 +10,7 @@ Currently working <a href="https://puneuma.com">@Puneuma</a> on a cool task mana
 <pre>
     ⇢ Ruby • PHP • JavaScript • Janet • Lua • Odin
     ⇢ Laravel • HTMX • Tailwind CSS • AlpineJS • VueJS
-    ⇢ Linux • not-arch-btw • helix • zsh • 
+    ⇢ Linux • not-arch-btw • helix • zsh • Ghostty • Thinkpads
     ⇢ Indie Game Dev • Pixel Art 
     ⇢ Books • Music • Manga & Comics • Games • Sometimes Anime 
     ⇢ Amazarashi • Linking Park
