@@ -5,7 +5,7 @@ My name is **Dominik**. I'm a *software engineer* by day ☼ and a *pixel artist
 
 Currently working <a href="https://puneuma.com">@Puneuma</a> on a cool task management app for ADHD folks *(and myself)*.
 
-<br /><br />
+<br />
 
 <pre>
     ⇢ Ruby • PHP • JavaScript • Janet • Lua • Odin
@@ -17,7 +17,7 @@ Currently working <a href="https://puneuma.com">@Puneuma</a> on a cool task mana
     ⇢ Xenoblade Chronicles • Zelda • To The Moon • Guild Wars (1/2)
 </pre>
 
-<br /><br />
+<br />
 
 <p align="center">
   <a href="https://yard77.dev">Website</a> •
