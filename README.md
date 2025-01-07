@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/dotninth/dotninth/master/assets/sakura.png" width="25%" align="right" />
+<img src="https://raw.githubusercontent.com/dotninth/dotninth/master/assets/sakura.png" width="25%" align="right" alt="Pixel Art sakura" />
 
-## HELLO
+### HELLO????
 
 <p align="center">
   <a href="https://yard77.dev">Website</a> •
