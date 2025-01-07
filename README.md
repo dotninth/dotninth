@@ -3,7 +3,7 @@
 ### 👋🏻 Hi there!
 My name is **Dominik**. I'm a *software engineer* by day ☼ and a *pixel artist* by night ☾
 
-Currently working <a href="https://puneuma.com">@Puneuma</a> on a cool task management app for ADHD folks *(and myself)*.
+Currently working @ <a href="https://puneuma.com">Puneuma</a> on a cool task management app for ADHD folks *(and myself)*.
 
 <br />
 
