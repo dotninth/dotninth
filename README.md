@@ -1,12 +1,16 @@
 <img src="https://raw.githubusercontent.com/dotninth/dotninth/master/assets/sakura.png" width="25%" align="right" alt="Pixel Art sakura" />
 
-### Hi there! My name is **Dominik**. I'm a software engineer by day ☼ and a pixel artist by night ☾
+### Hi there!
+My name is **Dominik**. I'm a software engineer by day ☼ and a pixel artist by night ☾
 
+<br />
 <p align="center">
   <a href="https://yard77.dev">Website</a> •
   <a href="https://bsky.app/profile/yard77.dev">BlueSky</a> •
   <a href="https://www.linkedin.com/in/lokkhart/">LinkedIn</a>
 </p>
+
+<br /><br />
 
 <pre>
     Ruby • PHP • JavaScript • Janet • Lua • Odin
