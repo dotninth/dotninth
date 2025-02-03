@@ -24,7 +24,6 @@ Currently working @ <a href="https://puneuma.com">Puneuma</a> on a cool task man
 
 <p align="center">
   <a href="https://yard77.dev">Website</a> •
-  <a href="https://bsky.app/profile/yard77.dev">BlueSky</a> •
   <a href="https://www.linkedin.com/in/lokkhart/">LinkedIn</a>
 </p>
 
