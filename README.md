@@ -4,7 +4,7 @@
 
 My name is **Dominik**. I'm a _software engineer_ by day ☼ and a _pixel artist_ by night ☾
 
-Currently working @ <a href="https://puneuma.com">Puneuma</a> on a cool task management app for ADHD folks _(and myself)_.
+Currently working @ <a href="https://idealdesign.dev">iDeal Design Studio</a> as the CTO and additionally providing services as a _development consultant_ and _fractional CTO_.
 
 <br />
 
@@ -24,6 +24,7 @@ Currently working @ <a href="https://puneuma.com">Puneuma</a> on a cool task man
 <br />
 
 <p align="center">
-  <a href="https://yard77.dev">Website</a> •
-  <a href="https://www.linkedin.com/in/lokkhart/">LinkedIn</a>
+  <a href="https://yard77.dev">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/lokkhart/">LinkedIn</a> •
+  <a href="https://idealdesign.dev">iDeal Design Studio Website</a>
 </p>
