@@ -10,7 +10,7 @@ Currently working @ <a href="https://idealdesign.dev">iDeal Design Studio</a> as
 
 <pre>
     ⇢ Ruby • PHP • JavaScript • Janet • Lua • Odin
-    ⇢ Laravel • HTMX • Livewire • Tailwind CSS • AlpineJS • VueJS
+    ⇢ Laravel • DataStar • HTMX • Livewire • Tailwind CSS • AlpineJS • VueJS
     ⇢ Statamic • Filament
     ⇢ Linux • not-arch-btw • helix • zsh • Ghostty • Thinkpads
     ⇢ Indie Game Dev • Pixel Art
