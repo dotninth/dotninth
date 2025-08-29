@@ -15,7 +15,7 @@ Currently working @ <a href="https://idealdesign.dev">iDeal Design Studio</a> as
     ⇢ Linux • not-arch-btw • helix • zsh • Ghostty • Thinkpads
     ⇢ Indie Game Dev • Pixel Art
     ⇢ Books • Music • Manga & Comics • Games • Sometimes Anime
-    ⇢ Amazarashi • Linking Park • Galileo Galilei • Starbenders
+    ⇢ Amazarashi • Linkin Park • Sleep Token • Galileo Galilei • Starbenders
     ⇢ Xenoblade Chronicles • Zelda • To The Moon • Guild Wars (1/2)
     ⇢ Eureka 7 • Full-Metal Alchemist • Grand Blue
     ⇢ Scott Pilgrim • Seconds
